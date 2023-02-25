@@ -1,0 +1,2 @@
+Abdullah,Batter,Right,Right,18,2000
+Huraira,Bowler,Right,Right,19,4900
