@@ -97,7 +97,7 @@ main()
     loadData();
     loadCoachesData();
     loadCricketersData();
-    //loadStatistics();
+    loadStatistics();
     loadAchievements();
     loadSchedule();
     loadTrainingSchedule();
